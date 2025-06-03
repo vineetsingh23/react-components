@@ -1,7 +1,7 @@
 
 {
-  "name": "@vineetsingh23/react-ui-component-library",
-  "version": "0.0.2",
+  "name": "vs-react-ui-component-library",
+  "version": "0.0.3",
   "description": "A collection of reusable React UI components built with Tailwind CSS and TypeScript.",
   "type": "module",
   "main": "./dist/my-react-component-library.umd.js",
